@@ -24,6 +24,6 @@ An interactive Power BI dashboard analyzing EV adoption trends, manufacturer per
 - Interactive dashboard filters
 
 ## Dashboard Preview
-![EV Dashboard](electric vehicle.png)
+![EV Dashboard](./electric vehicle.png)
 
 
